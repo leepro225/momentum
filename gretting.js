@@ -12,7 +12,7 @@ function saveName(text) {
 }      
 
 function handleSubmit(event) {
-
+  
     // prevent submit value
     event.preventDefault();
     

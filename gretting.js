@@ -38,7 +38,7 @@ function paintGreeting(text) {
 
     // show greetings
     greeting.classList.add(SHOWING_CLASS);
-    greeting.innerText = `Hello ${text}`;
+    greeting.innerText = `Hello ${text}!`;
 }
 
 function loadName() {
